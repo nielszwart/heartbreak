@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
+    },
+    "autoload":  {
+        "classmap": ["src/"]
+    }
+}
